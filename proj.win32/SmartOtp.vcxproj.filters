@@ -1,0 +1,224 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="win32">
+      <UniqueIdentifier>{84a8ebd7-7cf0-47f6-b75e-d441df67da40}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="resource">
+      <UniqueIdentifier>{715254bc-d70b-4ec5-bf29-467dd3ace079}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{bb6c862e-70e9-49d9-81b7-3829a6f50471}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\SHA252">
+      <UniqueIdentifier>{c377d4bf-3f04-42ee-8040-52f23d4a335d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Network">
+      <UniqueIdentifier>{0aedadf2-3375-4306-9858-7077b02d4e7a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Layer">
+      <UniqueIdentifier>{63b70f42-fa26-48b1-b5e3-f44f47f71dcf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Xml">
+      <UniqueIdentifier>{6c33c6a1-5e51-4e93-95a4-38d23decd336}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Manager">
+      <UniqueIdentifier>{3270404f-ed4e-45ec-a1bc-104407a0c50e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Ble">
+      <UniqueIdentifier>{1b8b31db-cb4a-4591-a29a-97ee9adc0f0d}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>win32</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppDelegate.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\MainScene.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\KISA_SHA256.c">
+      <Filter>src\SHA252</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\sha1.c">
+      <Filter>src\SHA252</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\hmac_sha1.c">
+      <Filter>src\SHA252</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\MyBase64.cpp">
+      <Filter>src\SHA252</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\HttpManager.cpp">
+      <Filter>src\Network</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\CardRegisterLayer.cpp">
+      <Filter>src\Layer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\ExchangeHomeLayer.cpp">
+      <Filter>src\Layer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\ExchangeInfoLayer.cpp">
+      <Filter>src\Layer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\ExchangeInfoListLayer.cpp">
+      <Filter>src\Layer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\ExchangeLayer.cpp">
+      <Filter>src\Layer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\HomeLayer.cpp">
+      <Filter>src\Layer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\LogInDialLogBox.cpp">
+      <Filter>src\Layer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\LoginLayer.cpp">
+      <Filter>src\Layer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\RemittanceLayer.cpp">
+      <Filter>src\Layer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\StartLayer.cpp">
+      <Filter>src\Layer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\SurveyLayer.cpp">
+      <Filter>src\Layer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\RemittanceHomeLayer.cpp">
+      <Filter>src\Layer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\UserIDRegisterlayer.cpp">
+      <Filter>src\Layer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\XmlParser.cpp">
+      <Filter>src\Xml</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\ProgressDialog.cpp">
+      <Filter>src\Layer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\UIHelper.cpp">
+      <Filter>src\Layer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\SMessageBox.cpp">
+      <Filter>src\Layer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\RemittanceInfoLayer.cpp">
+      <Filter>src\Layer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\RemittanceInfoListLayer.cpp">
+      <Filter>src\Layer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\DataManager.cpp">
+      <Filter>src\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\EventManager.cpp">
+      <Filter>src\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\WinBluetooth.cpp">
+      <Filter>src\Ble</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="main.h">
+      <Filter>win32</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppDelegate.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\KISA_SHA256.h">
+      <Filter>src\SHA252</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Define.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\sha1.h">
+      <Filter>src\SHA252</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\hmac_sha1.h">
+      <Filter>src\SHA252</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\MyBase64.h">
+      <Filter>src\SHA252</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\HttpManager.h">
+      <Filter>src\Network</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\CardRegisterLayer.h">
+      <Filter>src\Layer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\ExchangeHomeLayer.h">
+      <Filter>src\Layer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\ExchangeInfoLayer.h">
+      <Filter>src\Layer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\ExchangeInfoListLayer.h">
+      <Filter>src\Layer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\ExchangeLayer.h">
+      <Filter>src\Layer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\HomeLayer.h">
+      <Filter>src\Layer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\LoginLayer.h">
+      <Filter>src\Layer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\RemittanceLayer.h">
+      <Filter>src\Layer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\StartLayer.h">
+      <Filter>src\Layer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\SurveyLayer.h">
+      <Filter>src\Layer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\RemittanceHomeLayer.h">
+      <Filter>src\Layer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\UserIDRegisterlayer.h">
+      <Filter>src\Layer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\XmlParser.h">
+      <Filter>src\Xml</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\ProgressDialog.h">
+      <Filter>src\Layer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\LogInDialLogBox.h">
+      <Filter>src\Layer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\UIHelper.h">
+      <Filter>src\Layer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\SMessageBox.h">
+      <Filter>src\Layer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\RemittanceInfoLayer.h">
+      <Filter>src\Layer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\RemittanceInfoListLayer.h">
+      <Filter>src\Layer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\DataManager.h">
+      <Filter>src\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\EventManager.h">
+      <Filter>src\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\MainScene.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\WinBluetooth.h">
+      <Filter>src\Ble</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="game.rc">
+      <Filter>resource</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>

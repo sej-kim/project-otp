@@ -1,0 +1,846 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<text>
+		<index>1000</index>
+		<desc>Cipher Card</desc>
+	</text>
+	<text>
+		<index>1001</index>
+		<desc>가상화폐 지갑 서비스</desc>
+	</text>
+	<text>
+		<index>1002</index>
+		<desc>시작하기</desc>
+	</text>
+	<text>
+		<index>1003</index>
+		<desc>이미계정이 있으시면</desc>
+	</text>
+	<text>
+		<index>1004</index>
+		<desc>로그인</desc>
+	</text>
+	<text>
+		<index>2000</index>
+		<desc>로그인</desc>
+	</text>
+	<text>
+		<index>2001</index>
+		<desc>사용자 아이디</desc>
+	</text>
+	<text>
+		<index>2002</index>
+		<desc>영문과 숫자만 가능합니다.</desc>
+	</text>
+	<text>
+		<index>2003</index>
+		<desc>잠시만 기다려주세요</desc>
+	</text>
+	<text>
+		<index>2004</index>
+		<desc>확인</desc>
+	</text>
+	<text>
+		<index>2005</index>
+		<desc>예상치 못한 오류가 발생했습니다. 
+동일한 문제가 반복될 경우
+고객센터(1234-1234)로 문의 바랍니다.</desc>
+	</text>
+	<text>
+		<index>2006</index>
+		<desc>로그인</desc>
+	</text>
+	<text>
+		<index>3000</index>
+		<desc>사이퍼 카드</desc>
+	</text>
+	<text>
+		<index>3001</index>
+		<desc>%s님 환영합니다</desc>
+	</text>
+	<text>
+		<index>3002</index>
+		<desc>잔액</desc>
+	</text>
+	<text>
+		<index>3003</index>
+		<desc>%.1f GIB</desc>
+	</text>
+	<text>
+		<index>3004</index>
+		<desc>송금하기</desc>
+	</text>
+	<text>
+		<index>3005</index>
+		<desc>거래내역</desc>
+	</text>
+	<text>
+		<index>3006</index>
+		<desc>로그아웃</desc>
+	</text>
+	<text>
+		<index>3007</index>
+		<desc>환전하기</desc>
+	</text>
+	<text>
+		<index>3008</index>
+		<desc>환전내역</desc>
+	</text>
+	<text>
+		<index>4000</index>
+		<desc>시작하기</desc>
+	</text>
+	<text>
+		<index>4001</index>
+		<desc>1단계: 아이디 등록</desc>
+	</text>
+	<text>
+		<index>4002</index>
+		<desc>사용자 아이디</desc>
+	</text>
+	<text>
+		<index>4003</index>
+		<desc>영문과 숫자만 가능합니다.</desc>
+	</text>
+	<text>
+		<index>4004</index>
+		<desc>사용자 아이디(재입력)</desc>
+	</text>
+	<text>
+		<index>4005</index>
+		<desc>영문과 숫자만 가능합니다.</desc>
+	</text>
+	<text>
+		<index>4006</index>
+		<desc>아이디 확인</desc>
+	</text>
+	<text>
+		<index>5000</index>
+		<desc>시작하기</desc>
+	</text>
+	<text>
+		<index>5001</index>
+		<desc>2단계: 설문등록</desc>
+	</text>
+	<text>
+		<index>5002</index>
+		<desc>본인 성명 및 성별</desc>
+	</text>
+	<text>
+		<index>5003</index>
+		<desc>이름을 입력하세요</desc>
+	</text>
+	<text>
+		<index>5004</index>
+		<desc>선택</desc>
+	</text>
+	<text>
+		<index>5005</index>
+		<desc>남</desc>
+	</text>
+	<text>
+		<index>5006</index>
+		<desc>여</desc>
+	</text>
+	<text>
+		<index>5007</index>
+		<desc>부모형제 중 1명 이름 및 성별</desc>
+	</text>
+	<text>
+		<index>5008</index>
+		<desc>부모형제 이름 입력</desc>
+	</text>
+	<text>
+		<index>5009</index>
+		<desc>선택</desc>
+	</text>
+	<text>
+		<index>5010</index>
+		<desc>남</desc>
+	</text>
+	<text>
+		<index>5011</index>
+		<desc>여</desc>
+	</text>
+	<text>
+		<index>5012</index>
+		<desc>첫아이 이름 입력</desc>
+	</text>
+	<text>
+		<index>5013</index>
+		<desc>첫아이 이름</desc>
+	</text>
+	<text>
+		<index>5014</index>
+		<desc>본인 생일</desc>
+	</text>
+	<text>
+		<index>5015</index>
+		<desc>선택</desc>
+	</text>
+	<text>
+		<index>5016</index>
+		<desc>태어난 국가</desc>
+	</text>
+	<text>
+		<index>5017</index>
+		<desc>선택</desc>
+	</text>
+	<text>
+		<index>5018</index>
+		<desc>혈액형</desc>
+	</text>
+	<text>
+		<index>5019</index>
+		<desc>선택</desc>
+	</text>
+	<text>
+		<index>5020</index>
+		<desc>최종 졸업학교</desc>
+	</text>
+	<text>
+		<index>5021</index>
+		<desc>최종학교를 입력하세요</desc>
+	</text>
+	<text>
+		<index>5022</index>
+		<desc>최초 입학 학교</desc>
+	</text>
+	<text>
+		<index>5023</index>
+		<desc>최초학교를 입력하세요</desc>
+	</text>
+	<text>
+		<index>5024</index>
+		<desc>플랫폼 등록 장소</desc>
+	</text>
+	<text>
+		<index>5025</index>
+		<desc>선택</desc>
+	</text>
+	<text>
+		<index>5026</index>
+		<desc>선택</desc>
+	</text>
+	<text>
+		<index>5027</index>
+		<desc>플랫폼 등록 날자</desc>
+	</text>
+	<text>
+		<index>5028</index>
+		<desc>선택</desc>
+	</text>
+	<text>
+		<index>5029</index>
+		<desc>잊을수 없는 개인번호</desc>
+	</text>
+	<text>
+		<index>5030</index>
+		<desc>잊을수 없는 번호를 입력하세요</desc>
+	</text>
+	<text>
+		<index>5031</index>
+		<desc>잊을수 없는 개인번호(재입력)</desc>
+	</text>
+	<text>
+		<index>5032</index>
+		<desc>잊을 수 없는 번호를 입력하세요</desc>
+	</text>
+	<text>
+		<index>5033</index>
+		<desc>함께 사는 가족수</desc>
+	</text>
+	<text>
+		<index>5034</index>
+		<desc>현재 동거인 수를 입력하세요</desc>
+	</text>
+	<text>
+		<index>5035</index>
+		<desc>종교</desc>
+	</text>
+	<text>
+		<index>5036</index>
+		<desc>선택</desc>
+	</text>
+	<text>
+		<index>5037</index>
+		<desc>설문 등록</desc>
+	</text>
+	<text>
+		<index>5038</index>
+		<desc>부모형제 이름 입력</desc>
+	</text>
+	<text>
+		<index>5039</index>
+		<desc>첫아이 이름 입력</desc>
+	</text>
+	<text>
+		<index>5040</index>
+		<desc>YYYY</desc>
+	</text>
+	<text>
+		<index>5041</index>
+		<desc>MM</desc>
+	</text>
+	<text>
+		<index>5042</index>
+		<desc>DD</desc>
+	</text>
+	<text>
+		<index>5043</index>
+		<desc>플램폼 등록 장소를 입력하세요</desc>
+	</text>
+	<text>
+		<index>6000</index>
+		<desc>시작하기</desc>
+	</text>
+	<text>
+		<index>6001</index>
+		<desc>3단계: 사이퍼 카드 등록</desc>
+	</text>
+	<text>
+		<index>6002</index>
+		<desc>사이퍼 카드를 켜십시오</desc>
+	</text>
+	<text>
+		<index>6003</index>
+		<desc>사이퍼 카드가 켜졌으면 아래 확인버튼
+을 눌러주세요</desc>
+	</text>
+	<text>
+		<index>6004</index>
+		<desc>확인</desc>
+	</text>
+	<text>
+		<index>6005</index>
+		<desc>사이퍼 카드를 검색 중입니다.</desc>
+	</text>
+	<text>
+		<index>6006</index>
+		<desc>사이퍼 카드에 회원 아이디가 뜨면
+다음 페이지로 넘어 갑니다.</desc>
+	</text>
+	<text>
+		<index>6007</index>
+		<desc>사이퍼 카드가 검색 되었습니다.
+PIN 입력 후 "사이퍼카드 등록" 버튼을 눌러주세요.</desc>
+	</text>
+	<text>
+		<index>6008</index>
+		<desc>암호문표시</desc>
+	</text>
+	<text>
+		<index>6009</index>
+		<desc>PIN</desc>
+	</text>
+	<text>
+		<index>6010</index>
+		<desc>숫자 4자만 가능합니다.</desc>
+	</text>
+	<text>
+		<index>6011</index>
+		<desc>PIN(재입력)</desc>
+	</text>
+	<text>
+		<index>6012</index>
+		<desc>숫자 4자만 가능합니다.</desc>
+	</text>
+	<text>
+		<index>6013</index>
+		<desc>사이퍼 카드 등록</desc>
+	</text>
+	<text>
+		<index>6014</index>
+		<desc>카드 OK버튼을 누른 후 , 카드에 
+보이는 암호문과 일치하면 
+"사이퍼카드 등록" 을 눌러주세요</desc>
+	</text>
+	<text>
+		<index>6015</index>
+		<desc>등록하시겠습니까?</desc>
+	</text>
+	<text>
+		<index>7000</index>
+		<desc>송금하기</desc>
+	</text>
+	<text>
+		<index>7001</index>
+		<desc>수신자 계좌를 입력해주세요</desc>
+	</text>
+	<text>
+		<index>7002</index>
+		<desc>숫자만 가능합니다.</desc>
+	</text>
+	<text>
+		<index>7003</index>
+		<desc>송금할 금액을 입력해주세요</desc>
+	</text>
+	<text>
+		<index>7004</index>
+		<desc>0.1GIB</desc>
+	</text>
+	<text>
+		<index>7005</index>
+		<desc>PIN</desc>
+	</text>
+	<text>
+		<index>7006</index>
+		<desc>숫자 4자만 가능합니다.</desc>
+	</text>
+	<text>
+		<index>7007</index>
+		<desc>PIN(재입력)</desc>
+	</text>
+	<text>
+		<index>7008</index>
+		<desc>숫자 4자만 가능합니다.</desc>
+	</text>
+	<text>
+		<index>7009</index>
+		<desc>1. 사이퍼 카드의 파워를 눌러주세요
+2. PIN 입력 후 "송금" 버튼을 눌러주세요
+3. 사이퍼 카드에 보여지는 수신자정보와 거래내역이 맞으면 카드의 OK버튼을 눌러주세요
+4.카드에서 보여지는 암호문과 앱에서 보여지는 암호문이 동일하면 "송금"버튼을 다시 눌러주세요</desc>
+	</text>
+	<text>
+		<index>7010</index>
+		<desc>암호문이 보이시면 송금 버튼을 눌러주세요</desc>
+	</text>
+	<text>
+		<index>7011</index>
+		<desc>송금</desc>
+	</text>
+	<text>
+		<index>7012</index>
+		<desc>%s님에게 %.2fGIB를 송금하시겠습니까?</desc>
+	</text>
+	<text>
+		<index>7013</index>
+		<desc>아니요</desc>
+	</text>
+	<text>
+		<index>7014</index>
+		<desc>예</desc>
+	</text>
+	<text>
+		<index>7015</index>
+		<desc>MEMO</desc>
+	</text>
+	<text>
+		<index>7016</index>
+		<desc>메모를 입력하세요</desc>
+	</text>
+	<text>
+		<index>7017</index>
+		<desc>송금 하시겠습니까?</desc>
+	</text>
+	<text>
+		<index>8000</index>
+		<desc>%d년 %d월 %d일</desc>
+	</text>
+	<text>
+		<index>8001</index>
+		<desc>%d:%d:%d</desc>
+	</text>
+	<text>
+		<index>8002</index>
+		<desc>%s님께 %.1f GIB가
+송금되었습니다.</desc>
+	</text>
+	<text>
+		<index>8003</index>
+		<desc>잔액</desc>
+	</text>
+	<text>
+		<index>8004</index>
+		<desc>%.1f GIB</desc>
+	</text>
+	<text>
+		<index>8005</index>
+		<desc>확인</desc>
+	</text>
+	<text>
+		<index>9000</index>
+		<desc>거래 내역 조회</desc>
+	</text>
+	<text>
+		<index>9001</index>
+		<desc>PIN</desc>
+	</text>
+	<text>
+		<index>9002</index>
+		<desc>숫자 4자만 가능합니다.</desc>
+	</text>
+	<text>
+		<index>9003</index>
+		<desc>PIN(재입력)</desc>
+	</text>
+	<text>
+		<index>9004</index>
+		<desc>숫자 4자만 가능합니다.</desc>
+	</text>
+	<text>
+		<index>9005</index>
+		<desc>1. 사이퍼 카드의 파워를 눌러주세요
+2. PIN 입력 후 "조회" 버튼을 눌러주세요.
+3. 카드에서 보여지는 암호문과 앱에서 보여지는 암호문이 동일하면 "조회"버튼을 다시 눌러주세요</desc>
+	</text>
+	<text>
+		<index>9006</index>
+		<desc>암호분이 보이시면 조회 버튼을 눌러주세요</desc>
+	</text>
+	<text>
+		<index>9007</index>
+		<desc>조회</desc>
+	</text>
+	<text>
+		<index>9008</index>
+		<desc>거래 내역이 없습니다.</desc>
+	</text>
+	<text>
+		<index>9009</index>
+		<desc>거래 내역에 문제가 있다면
+고객센터(1234-1234)로 연락 바랍니다.</desc>
+	</text>
+	<text>
+		<index>9010</index>
+		<desc>거래 내역</desc>
+	</text>
+	<text>
+		<index>9011</index>
+		<desc>전체</desc>
+	</text>
+	<text>
+		<index>9012</index>
+		<desc>송금</desc>
+	</text>
+	<text>
+		<index>9013</index>
+		<desc>입금</desc>
+	</text>
+	<text>
+		<index>9014</index>
+		<desc>%d.%d.%d | %s</desc>
+	</text>
+	<text>
+		<index>9015</index>
+		<desc>%s %.1f GIB</desc>
+	</text>
+	<text>
+		<index>10000</index>
+		<desc>환전하기</desc>
+	</text>
+	<text>
+		<index>10001</index>
+		<desc>구매단위:GIB</desc>
+	</text>
+	<text>
+		<index>10002</index>
+		<desc>10 GIB</desc>
+	</text>
+	<text>
+		<index>10003</index>
+		<desc>9.9 GIB</desc>
+	</text>
+	<text>
+		<index>10004</index>
+		<desc>지불금액: KRW(원)</desc>
+	</text>
+	<text>
+		<index>10005</index>
+		<desc>300 KRW</desc>
+	</text>
+	<text>
+		<index>10006</index>
+		<desc>PIN</desc>
+	</text>
+	<text>
+		<index>10007</index>
+		<desc>숫자 4자만 가능합니다.</desc>
+	</text>
+	<text>
+		<index>10008</index>
+		<desc>PIN(재입력)</desc>
+	</text>
+	<text>
+		<index>10009</index>
+		<desc>숫자 4자만 가능합니다.</desc>
+	</text>
+	<text>
+		<index>10010</index>
+		<desc>1. 사이퍼 카드의 파워를 눌러주세요
+2. PIN 입력 후 "환전신청" 버튼을 눌러주세요.
+3. 카드에서 보여지는 암호문과 앱에서 보여지는 암호문이 동일하면 "환전신청" 버튼을 다시 눌러주세요</desc>
+	</text>
+	<text>
+		<index>10011</index>
+		<desc>암호분이 보이시면 환전신청 버튼을 눌러주세요</desc>
+	</text>
+	<text>
+		<index>10012</index>
+		<desc>환전 신청</desc>
+	</text>
+	<text>
+		<index>10013</index>
+		<desc>%.1f GIB를 %d KRW에 
+구매하시겠습니까?</desc>
+	</text>
+	<text>
+		<index>10014</index>
+		<desc>아니요</desc>
+	</text>
+	<text>
+		<index>10015</index>
+		<desc>예</desc>
+	</text>
+	<text>
+		<index>10016</index>
+		<desc>%d년 %d월 %d일</desc>
+	</text>
+	<text>
+		<index>10017</index>
+		<desc>%d:%d:%d</desc>
+	</text>
+	<text>
+		<index>10018</index>
+		<desc>%.1f GIB가 환전 되었습니다.</desc>
+	</text>
+	<text>
+		<index>10019</index>
+		<desc>잔액</desc>
+	</text>
+	<text>
+		<index>10020</index>
+		<desc>%.1f GIB</desc>
+	</text>
+	<text>
+		<index>10021</index>
+		<desc>확인</desc>
+	</text>
+	<text>
+		<index>10022</index>
+		<desc>환전 하시겠습니까?</desc>
+	</text>
+	<text>
+		<index>20000</index>
+		<desc>환전 내역 조회</desc>
+	</text>
+	<text>
+		<index>20001</index>
+		<desc>PIN</desc>
+	</text>
+	<text>
+		<index>20002</index>
+		<desc>숫자 4자만 가능합니다.</desc>
+	</text>
+	<text>
+		<index>20003</index>
+		<desc>PIN(재입력)</desc>
+	</text>
+	<text>
+		<index>20004</index>
+		<desc>숫자 4자만 가능합니다.</desc>
+	</text>
+	<text>
+		<index>20005</index>
+		<desc>1. 사이퍼 카드의 파워를 눌러주세요
+2. PIN 입력 후 "조회" 버튼을 눌러주세요.
+3. 카드에서 보여지는 암호문과 앱에서 보여지는 암호문이 동일하면 "조회" 버튼을 다시 눌러주세요</desc>
+	</text>
+	<text>
+		<index>20006</index>
+		<desc>암호문이 보이시면 조회 버튼을 눌러주세요</desc>
+	</text>
+	<text>
+		<index>20007</index>
+		<desc>조회</desc>
+	</text>
+	<text>
+		<index>20008</index>
+		<desc>환전 내역이 없습니다.</desc>
+	</text>
+	<text>
+		<index>20009</index>
+		<desc>환전 내역에 문제가 있다면
+고객센터(1234-1234)로 연락 바랍니다</desc>
+	</text>
+	<text>
+		<index>20010</index>
+		<desc>환전내역</desc>
+	</text>
+	<text>
+		<index>20011</index>
+		<desc>전체</desc>
+	</text>
+	<text>
+		<index>20012</index>
+		<desc>GIB</desc>
+	</text>
+	<text>
+		<index>20013</index>
+		<desc>EOS</desc>
+	</text>
+	<text>
+		<index>20014</index>
+		<desc>%s | %s</desc>
+	</text>
+	<text>
+		<index>20015</index>
+		<desc>%.1f GIB</desc>
+	</text>
+	<text>
+		<index>30000</index>
+		<desc>에러 메시지</desc>
+	</text>
+	<text>
+		<index>30001</index>
+		<desc>사이퍼 카드가 검색되지 않았습니다.</desc>
+	</text>
+	<text>
+		<index>30002</index>
+		<desc>예상치 못한 오류가 발생했습니다. 
+동일한 문제가 반복될 경우
+고객센터(1234-1234)로 문의 바랍니다.</desc>
+	</text>
+	<text>
+		<index>30003</index>
+		<desc>환전 취소 버튼을 누르셨습니다.</desc>
+	</text>
+	<text>
+		<index>30004</index>
+		<desc>암호가 틀립니다.</desc>
+	</text>
+	<text>
+		<index>30005</index>
+		<desc>네트웍 연결이 원활하지 않습니다.</desc>
+	</text>
+	<text>
+		<index>30006</index>
+		<desc>아이디는 영문과 숫자만 입력 가능합니다.</desc>
+	</text>
+	<text>
+		<index>30007</index>
+		<desc>PIN 값이 일치하지 않습니다.</desc>
+	</text>
+	<text>
+		<index>30008</index>
+		<desc>PIN 값은 4자리 숫자만 가능합니다.</desc>
+	</text>
+	<text>
+		<index>30009</index>
+		<desc>사이퍼카드가 연결되지 않았습니다.</desc>
+	</text>
+	<text>
+		<index>30010</index>
+		<desc>거래취소 버튼을 누르셨습니다.</desc>
+	</text>
+	<text>
+		<index>30011</index>
+		<desc>잘못된 암호문이 전송 되었습니다.</desc>
+	</text>
+	<text>
+		<index>30012</index>
+		<desc>등록하실 PIN (4자리숫자)를 2회 입력해 주세요</desc>
+	</text>
+	<text>
+		<index>30013</index>
+		<desc>잘못된 아이디입니다.</desc>
+	</text>
+	<text>
+		<index>30014</index>
+		<desc>이미 사용중인 아이디 입니다.</desc>
+	</text>
+	<text>
+		<index>50000</index>
+		<desc>아이디를 입력하세요</desc>
+	</text>
+	<text>
+		<index>50001</index>
+		<desc>에러 메시지</desc>
+	</text>
+	<text>
+		<index>50002</index>
+		<desc>해당 아이디의 정보가 없습니다</desc>
+	</text>
+	<text>
+		<index>50003</index>
+		<desc>아이디가 동일하지 않습니다.</desc>
+	</text>
+	<text>
+		<index>50004</index>
+		<desc>등록된 아이디가 있습니다.</desc>
+	</text>
+	<text>
+		<index>50005</index>
+		<desc>4자 이상 10자 이하로 입력 해주세요</desc>
+	</text>
+	<text>
+		<index>50006</index>
+		<desc>OK 버튼을 눌러 주세요</desc>
+	</text>
+	<text>
+		<index>50007</index>
+		<desc>등록 실패</desc>
+	</text>
+	<text>
+		<index>50008</index>
+		<desc>안내</desc>
+	</text>
+	<text>
+		<index>50009</index>
+		<desc>잘못된 이름입니다</desc>
+	</text>
+	<text>
+		<index>50010</index>
+		<desc>잘못된 계좌 입니다</desc>
+	</text>
+	<text>
+		<index>50011</index>
+		<desc>잘못된 공개키 입니다</desc>
+	</text>
+	<text>
+		<index>50012</index>
+		<desc>계좌정보를 확인해주세요</desc>
+	</text>
+	<text>
+		<index>50013</index>
+		<desc>계좌정보가 확인 되었습니다.</desc>
+	</text>
+	<text>
+		<index>50014</index>
+		<desc>bluetooth:연결</desc>
+	</text>
+	<text>
+		<index>50015</index>
+		<desc>bluetooth:연결되지 않았습니다.</desc>
+	</text>
+	<text>
+		<index>50016</index>
+		<desc>카드 OK버튼을 누른후
+카드에 보이는 암호문과 일치 하면 
+송금하기을 눌러 주세요</desc>
+	</text>
+	<text>
+		<index>50017</index>
+		<desc>카드 OK버튼을 누른후
+카드에 보이는 암호문과 일치 하면 
+조회을 눌러 주세요</desc>
+	</text>
+	<text>
+		<index>50018</index>
+		<desc>카드 OK버튼을 누른후
+카드에 보이는 암호문과 일치 하면 
+환전신청을 눌러 주세요</desc>
+	</text>
+	<text>
+		<index>50019</index>
+		<desc>카드 OK버튼을 누른후
+카드에 보이는 암호문과 일치 하면 
+조회을 눌러 주세요</desc>
+	</text>
+	<text>
+		<index>50020</index>
+		<desc>입력한 정보와 카드에 표시되는
+정보가 맞는지 확인해 주세요</desc>
+	</text>
+</root>

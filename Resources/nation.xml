@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<nation>
+		<code>2001</code>
+		<name>한국</name>
+	</nation>
+	<nation>
+		<code>2002</code>
+		<name>중국</name>
+	</nation>
+	<nation>
+		<code>2003</code>
+		<name>미국</name>
+	</nation>
+	<nation>
+		<code>2004</code>
+		<name>일본</name>
+	</nation>
+	<nation>
+		<code>2005</code>
+		<name>아프리카</name>
+	</nation>
+</root>
